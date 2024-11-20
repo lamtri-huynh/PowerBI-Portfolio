@@ -4,7 +4,7 @@ Welcome to my PowerBI portfolio! This repository contains a collection of my Pow
 
 ## Projects
 - **Project: Plant Performance 2022-2024 Report**
-- My project aims to provide a comprehensive analysis of [sales data](Performance Report 2022-2024/Plant_DTS.xls), enabling stakeholders to visualize trends, monitor performance, and make informed business decisions. The dashboard integrates various data sources to present key metrics and insights in an interactive format.
+- My project aims to provide a comprehensive analysis of [sales data](PerformanceReport2022-2024/Plant_DTS.xls) , enabling stakeholders to visualize trends, monitor performance, and make informed business decisions. The dashboard integrates various data sources to present key metrics and insights in an interactive format.
 
 - Features
   - Interactive Visualizations: Dynamic charts and graphs that allow users to explore sales data by product, region, and time period.
